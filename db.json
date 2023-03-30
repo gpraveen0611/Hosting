@@ -1,0 +1,28 @@
+{
+  "users": [
+   {
+            "id": 1,
+            "email": "tanmay.agrawal@carelon.com",
+            "role": {
+                "name": "Scrum Master",
+                "id": 7
+            },
+            "location": "Hyderabad",
+            "name": {
+                "firstname": "Tanmay",
+                "lastname": "Agrawal"
+            },
+            "skills": [
+                {
+                    "name": "Agile",
+                    "id": 8
+                },
+                {
+                    "name": "Kanban",
+                    "id": 9
+                }
+            ],
+            "phone": "1-570-236-7033"
+        }
+  ]
+}
