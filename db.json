@@ -22,7 +22,35 @@
                     "id": 9
                 }
             ],
-            "phone": "1-570-236-7033"
+            "phone": "91607755885"
+        },
+     {
+            "id": 2,
+            "email": "praveenkumarreddy.guddeti@carelon.com",
+            "role": {
+                "name": "Tech Lead",
+                "id": 1
+            },
+            "location": "Hyderabad",
+            "name": {
+                "firstname": "Praveen Kumar Reddy",
+                "lastname": "Guddeti"
+            },
+            "skills": [
+                {
+                    "name": "Angular",
+                    "id": 1
+                },
+                {
+                    "name": "React Js",
+                    "id": 2
+                },
+                {
+                    "name": "Node Js",
+                    "id": 3
+                }
+            ],
+            "phone": "9160507477"
         }
   ]
 }
